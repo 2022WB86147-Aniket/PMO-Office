@@ -1,0 +1,5 @@
+Requirement Gathering
+Design
+Implementation
+Testing
+Deployment
